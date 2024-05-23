@@ -1,4 +1,4 @@
-import { modal } from "./slaaa.js"
+import { modal } from "./mod.js"
 import { alerta } from "./alertError.js"
 
 const form = document.querySelector('form')
